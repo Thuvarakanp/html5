@@ -1,4 +1,36 @@
-h1
-  {
-    align: center;
+  #s1 {
+      border-radius: 25px;
+      background: #41b4ac;
+      padding: 20px;
+      width: 600px;
+      height: 300px;
+      float: center;
+      }
+  #s2 {
+      border-radius: 25px;
+      background: #73AD21;
+      padding: 20px;
+      width: 400px;
+      height: 222px;
+      float: right;
+      }
+  #s3 {
+      border-radius: 25px;
+      background: #73AD21;
+      padding: 20px;
+      width: 400px;
+      height: 222px;
+      float: left;
+      }
+  #s4 {
+      border-radius: 0px;
+      background: #2a958d;
+      padding: 20px;
+      width: 1317px;
+      height: 20px;
+      float: left;
+      }
+footer{
+  background-color: #2a958d;
+  height: 25px;
   }
