@@ -10,16 +10,16 @@
       border-radius: 25px;
       background: #73AD21;
       padding: 20px;
-      width: 400px;
-      height: 222px;
+      width: 470px;
+      height: 250px;
       float: right;
       }
   #s3 {
       border-radius: 25px;
       background: #73AD21;
       padding: 20px;
-      width: 400px;
-      height: 222px;
+      width: 420px;
+      height: 250px;
       float: left;
       }
   #s4 {
@@ -33,4 +33,15 @@
 footer{
   background-color: #2a958d;
   height: 25px;
+  }
+  #panel, #flip {
+      padding: 5px;
+      text-align: center;
+      background-color: #e5eecc;
+      border: solid 1px #c3c3c3;
+  }
+
+  #panel {
+      padding: 50px;
+      display: none;
   }
